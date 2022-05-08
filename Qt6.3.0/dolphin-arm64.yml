@@ -22,7 +22,6 @@ configure:
         - qtcoap
         - qtconnectivity
         - qtdatavis3d
-        - qtdeclarative
         - qtdoc
         - qtlottie
         - qtmqtt
@@ -44,9 +43,7 @@ configure:
         - qtvirtualkeyboard
         - qtwayland
         - qtwebchannel
-        - qtwebengine
         - qtwebsockets
-        - qtwebview
     feature:
         concurrent: false
         dbus: false
